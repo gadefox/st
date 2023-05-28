@@ -1,0 +1,7 @@
+#!/usr/bin/sh
+
+printf "\033[38;2;255;255;0;1mOOO"
+printf "\033[38;2;180;180;0;1mOOO"
+printf "\033[38;2;105;105;0;1mOOO\n"
+
+#printf "\033[?5h"
